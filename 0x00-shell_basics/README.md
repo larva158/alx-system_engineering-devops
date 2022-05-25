@@ -1,1 +1,1 @@
-printf working directory
+every directories contains a command
