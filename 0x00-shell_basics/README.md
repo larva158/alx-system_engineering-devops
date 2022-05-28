@@ -1,1 +1,1 @@
-every directories contains a command
+shell basic
