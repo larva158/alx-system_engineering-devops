@@ -1,1 +1,1 @@
-every directory contains a command
+shell permission
